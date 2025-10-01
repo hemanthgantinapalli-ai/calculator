@@ -63,7 +63,6 @@ Improve mobile responsiveness
 
 Add dark/light theme toggle
 
-👨‍💻 Author
-Your Name: hemanth gantinapalli
+👨‍💻 Author : hemanth gantinapalli
 
-📧 your.email: hemanthgantinapalli@gmail.com
+📧 Email: hemanthgantinapalli@gmail.com
